@@ -12,7 +12,7 @@
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=%235E5E5E&color=%23B8860B&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fryadi&logo=leetcode&logoColor=yellow)](https://leetcode.com/ryadi/)
 [![ProfileViews](https://komarev.com/ghpvc/?username=ryadios&color=red&style=flat)](https://komarev.com/ghpvc/?username=ryadios)
 
-I'm **[@Aditya](https://ryadi.vercel.app/)**, a `full-stack developer` who loves crafting `clean`, `functional web experiences` `◜ᴗ◝`
+I'm **[@Aditya](https://ryadi.vercel.app/)**, a `full-stack developer` who loves crafting `clean` and `functional web experiences` `◜ᴗ◝`
 
 - 🐸 ﹫ I enjoy turning ideas into smooth, interactive products with thoughtful design.
 - 🧭 ﹫ Currently exploring better ways to build fast, scalable frontends.
