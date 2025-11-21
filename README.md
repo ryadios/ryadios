@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"> Hi, I'm Aditya Chaudhary [@ryadi](https://ryadi.vercel.app/)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/aditya_byte?style=social)](https://twitter.com/intent/follow?screen_name=aditya_byte)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ryadi_os?style=social)](https://twitter.com/intent/follow?screen_name=ryadi_os)
 [![GitHub followers](https://img.shields.io/github/followers/ryadios?label=Follow&style=social)](https://github.com/ryadios/?tab=follow)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ryadi/)](https://www.linkedin.com/in/ryadi/)
 [![DEV Badge](https://img.shields.io/badge/-Dev-c14438?style=social&logo=Dev.to&logoColor=black&link=https://dev.to/ryadi)](https://dev.to/ryadi)
