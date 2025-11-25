@@ -51,5 +51,3 @@ I'm **[@Aditya](https://ryadi.vercel.app/)**, a `full-stack developer` who loves
 | [![Problem Solving](https://img.shields.io/static/v1?label=&message=Problem%20Solving&color=FFA116&logo=LeetCode&logoColor=FFFFFF)](https://leetcode.com/) | [![dsa-course](https://img.shields.io/static/v1?label=&message=dsa-course&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ryadios/dsa-course) |
 | [![Shell](https://img.shields.io/static/v1?label=&message=Shell&color=4EAA25&logo=GNU%20Bash&logoColor=FFFFFF)](https://www.gnu.org/) | [![.dotfiles](https://img.shields.io/static/v1?label=&message=.dotfiles&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ryadios/.dotfiles) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
-
-<br>
