@@ -24,7 +24,7 @@ I'm **[@Aditya](https://ryadi.vercel.app/)**, a `full-stack developer` who loves
 
 <div>
   <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" width="32px" src="./assets/icons/typescript.svg" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img align="left" alt="Node.js" width="32px" src="./assets/icons/nodejs.svg" /></a>
+  <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" width="32px" src="./assets/icons/nodejs.svg" /></a>
   <a href="https://react.dev" target="_blank"><img align="left" alt="React.js" width="32px" src="./assets/icons/react.svg" /></a>
   <a href="https://nextjs.org" target="_blank"><img align="left" alt="Next.js" width="32px" src="./assets/icons/nextjs.svg" /></a>
   <a href="" target="_blank"><img align="left" alt="Next.js" width="32px" src="./assets/icons/tailwindcss.svg" /></a>
