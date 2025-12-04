@@ -29,7 +29,7 @@ I'm **[@Aditya](https://ryadi.vercel.app/)**, a `full-stack developer` who loves
   <a href="https://nextjs.org" target="_blank"><img align="left" alt="Next.js" width="32px" src="./assets/icons/nextjs.svg" /></a>
   <a href="" target="_blank"><img align="left" alt="Next.js" width="32px" src="./assets/icons/tailwindcss.svg" /></a>
   <a href="https://isocpp.org/" target="_blank"><img align="left" alt="C++" width="32px" src="./assets/icons/C++.svg" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" width="32px" src="./assets/icons/mongodb.svg" /></a>
+  <a href="https://www.mongodb.com" target="_blank"><img align="left" alt="MongoDB" width="32px" src="./assets/icons/mongodb.svg" /></a>
   <a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="32px" src="./assets/icons/python.svg" /></a>
   <a href="https://git-scm.com/" target="_blank"><img align="left" alt="git" width="32px" src="./assets/icons/git.svg" /></a>
   <a href="https://github.com/" target="_blank"><img align="left" alt="GitHub" width="32px" src="./assets/icons/github.svg" /></a>
