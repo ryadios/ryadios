@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"> Hi, I'm Aditya ; [@ryadi](https://ryadi.vercel.app/)
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"> Hi, I'm Aditya [@ryadi](https://ryadi.vercel.app/)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ryadi_os?style=social)](https://twitter.com/intent/follow?screen_name=ryadi_os)
 [![GitHub followers](https://img.shields.io/github/followers/ryadios?label=Follow&style=social)](https://github.com/ryadios/?tab=follow)
