@@ -1,12 +1,13 @@
 ```text
-|\      _,,,---,,_
+      |\      _,,,---,,_
 ZZZzz /,`.-'`'    -.  ;-;;,_
-     |,4-  ) )-,_..;\ (  `'-'
+     |,4-  ) )-,_. ,\ (  `'-'
     '---''(_/--'  `-'\_)
 ```
 
 hi, i’m aditya.
 i make things on the internet.
+a little bit of design, a little bit of code, a lot of tabs open.
 
 [home](https://ryadi.vercel.app) · [linkedin](https://www.linkedin.com/in/ryadi/) · [x](https://x.com/ryadi_os)
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
