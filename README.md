@@ -9,4 +9,4 @@ hi, i’m aditya.<br>
 i make things on the internet.<br>
 a little bit of design, a little bit of code, a lot of tabs open.
 
-[home](https://ryadi.vercel.app) · [linkedin](https://www.linkedin.com/in/ryadi/) · [x](https://x.com/ryadi_os)
+[home](https://ryadi.dev) · [linkedin](https://www.linkedin.com/in/ryadi/) · [x](https://x.com/ryadi_os)
